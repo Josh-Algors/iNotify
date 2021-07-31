@@ -1,2 +1,2 @@
 # iNotify
-SMS/ Mailing notification system using mail function and twilio's API
+SMS/ Mailing notification system using mail function configured via local server(XAMPP) and twilio's API
